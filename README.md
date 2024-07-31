@@ -7,4 +7,4 @@ BDD Framework: Cucumber
 Derleme Aracı: Maven
 
 MANUEL TEST
-MAnuel Test excel olarak repoya eklendi. Manuel Test de İlk 5 case için tüm adımları tamamladım. Diğer caselerin tanımlarını yaptım. excelde bugs report açarak buldupum bug ı raporladım. 
+Manuel Test excel olarak repoya eklendi. Manuel Test de İlk 5 case için tüm adımları tamamladım. Diğer caselerin tanımlarını yaptım. Excelde bugs report açarak bulduğum bug ı raporladım. 
